@@ -1,2 +1,2 @@
 # Learner_Space2024-ML
-includes assignments for learners space2024-machine learning
+includes assignments submissions for learners space2024-machine learning
